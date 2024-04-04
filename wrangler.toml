@@ -53,3 +53,7 @@ compatibility_flags = ["nodejs_compat"]
 # binding = "MY_SERVICE"
 # service = "my-service"
 
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "demodb"
+database_id = "34333ca0-2dba-47c9-944f-4625ab19089d"

@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712248135903,
+      "tag": "0000_silky_captain_midlands",
+      "breakpoints": true
+    }
+  ]
+}
